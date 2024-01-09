@@ -7,11 +7,7 @@ import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
 
 /**
-<<<<<<< HEAD
- * testing again
-=======
- * 2nd commit to change
->>>>>>> refs/remotes/origin/initalbranch
+commit after merge
  * 
  */
 @Entity
